@@ -13,7 +13,7 @@ This project predicts housing prices using various machine learning models based
 ---
 
 ## 📂 Dataset
-- **Source:** [Kaggle](https://www.kaggle.com/) *(or mention specific dataset name if known)*  
+- **Source:** [Kaggle](https://www.kaggle.com/)
 - **Description:**  
   - Each record represents a property with numerical and categorical attributes  
   - **Target variable:** `Price`
