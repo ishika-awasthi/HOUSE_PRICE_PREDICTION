@@ -60,6 +60,6 @@ cd House-Price-Prediction
 pip install -r requirements.txt
 
 # Run Jupyter Notebook
-jupyter notebook "House Price Prediction.ipynb"
+jupyter notebook "Housing Price Prediction.ipynb"
 
 
