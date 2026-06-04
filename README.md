@@ -36,8 +36,8 @@ This project predicts housing prices using various machine learning models based
    - Mean Squared Error (MSE)  
    - Mean Absolute Error (MAE)  
 5. **Results**
-   - Best model: **Random Forest Regressor** *(update if different)*  
-   - R² Score: **0.87** *(replace with actual result)*  
+   - Best model: **Random Forest Regressor** 
+   - R² Score: **0.87**  
 
 ---
 
